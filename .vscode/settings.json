@@ -1,8 +1,3 @@
 {
-    "editor.fontSize": 14,
-    "editor.fontFamily": "Cascadia Code Semibold ,Consolas, 'Courier New', monospace",
-    "editor.suggest.showIcons": false,
-    "workbench.iconTheme": "vs-seti",
-    "python-envs.defaultEnvManager": "ms-python.python:system",
-    "python-envs.pythonProjects": []
+    "editor.fontSize": 13
 }
